@@ -1,7 +1,8 @@
-# mediaconv_v2
+# mediaconv_v2.1
 
 - Converts video files to .mp4 format, optimizing for compatibility and file size.
 - This script assumes a basic understanding of Python and some exposure to FFmpeg commands.
+- NEW IN 2.1: should now be completely platform-agnostic. Tested on both Linux and Windows 11.
 
 ## Description
 
