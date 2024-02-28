@@ -1,3 +1,9 @@
+# Custom ignores
+samples/
+scratchpad.py
+convert_media/
+converted_media/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
